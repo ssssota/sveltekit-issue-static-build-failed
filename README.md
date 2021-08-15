@@ -20,9 +20,9 @@ This is beta software; expect bugs and missing features.
 If you encounter a problem, open an issue on https://github.com/sveltejs/kit/issues if none exists already.
 
 ✔ Which Svelte app template? › Skeleton project
-✔ Use TypeScript? … No / Yes
-✔ Add ESLint for code linting? … No / Yes
-✔ Add Prettier for code formatting? … No / Yes
+✔ Use TypeScript? … *No* / Yes
+✔ Add ESLint for code linting? … *No* / Yes
+✔ Add Prettier for code formatting? … *No* / Yes
 ✔ Copied project files
 
 Want to add other parts to your code base? Visit https://github.com/svelte-add/svelte-adders, a community project of commands to add particular functionality to Svelte projects
