@@ -1,5 +1,7 @@
 # SvelteKit build fail with adapter-static
 
+When I specify `config.kit.paths.base`, I can't build.
+
 ## next150
 
 Build fail and "Not Found" when preview
